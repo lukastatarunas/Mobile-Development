@@ -1,0 +1,35 @@
+{
+    "expo": {
+        "name": "AndroidLabs",
+        "slug": "AndroidLabs",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true,
+            "config": {
+                "googleMapsApiKey": "AIzaSyDMHyia9UlRoXp9sNnhXPaJRLdTfcSZrxU"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "android": {
+            "useNextNotificationsApi": true,
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyDMHyia9UlRoXp9sNnhXPaJRLdTfcSZrxU"
+                }
+            }
+        }
+    }
+}
