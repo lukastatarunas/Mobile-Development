@@ -5,7 +5,7 @@ const { share, sharedAction, dismissedAction } = Share;
 
 const Lab2 = () => {
     const { colors } = useTheme();
-    const [sharableText, setSharableText] = useState('Lorem Ipsum Dolor Sit Amet');
+    const [sharableText, setSharableText] = useState('Hey there');
     const wordCount = (sharableText.match(/\S*/g) || []).filter((word) => word.length).length;
 
     const onShare = async () => {

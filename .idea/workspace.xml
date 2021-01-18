@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="363e4188-c224-4a93-a074-354221be8206" name="Default Changelist" comment="" />
+    <list default="true" id="363e4188-c224-4a93-a074-354221be8206" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lf1CGFuhpxyZPKp4W9McLbva6T" />
   <component name="ProjectViewState">
@@ -14,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -23,7 +29,10 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="363e4188-c224-4a93-a074-354221be8206" name="Default Changelist" comment="" />
@@ -37,5 +46,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609353920395">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.835@0.23.1440.835" timestamp="1609353920395" />
+    <state x="159" y="110" width="1200" height="592" key="AVDManager" timestamp="1609356717145">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="159" y="110" width="1200" height="592" key="AVDManager/0.23.1440.830@0.23.1440.830" timestamp="1609356717145" />
+    <state x="120" y="143" width="1200" height="594" key="AVDManager/0.23.1440.834@0.23.1440.834" timestamp="1609354255103" />
   </component>
 </project>

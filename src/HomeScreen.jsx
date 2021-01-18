@@ -12,7 +12,7 @@ const HomeScreen = ({ navigation }) => {
     return (
         <ScrollView>
             <View styles={styles.container}>
-                <Button style={{ fontSize: 20, textAlign: 'center', marginTop: 20 }} >Made by Dimitrijus Stepanov, PRIf-17/2</Button>
+                <Button style={{ fontSize: 20, textAlign: 'center', marginTop: 20 }} >Made by Lukas Tatarunas, PRIf-17/2</Button>
                 <Button style={{ fontSize: 18, textAlign: 'center', marginTop: 20 }} >1ST LAB IS A SCREENSHOT</Button>
                 {navigationsForButtons.map(([_, NAVIGATION]) => (
                     <Card style={styles.card}>

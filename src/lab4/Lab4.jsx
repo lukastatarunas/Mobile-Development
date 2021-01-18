@@ -5,7 +5,7 @@ import { WebView as ReactWebView } from 'react-native-webview';
 
 const Lab4 = ({ navigation }) => {
     const { colors } = useTheme();
-    const [uri, setUri] = useState('https://www.vgtu.lt');
+    const [uri, setUri] = useState('https://www.google.lt');
 
     const handleSubmit = () => {
         navigation.navigate('WebViewComponent', { uri: uri });
